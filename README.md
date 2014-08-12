@@ -13,3 +13,4 @@ Sem mais delongas, segue a lista abaixo.
 ### HTML/CSS
 
 * [É possível utilizar componentes desenvolvidos apenas com CSS? (Felipe Fialho)](http://www.felipefialho.com/talk-css-components-14-08-08/)
+* [Arrumando o CSS (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/arrumando-o-css) 
