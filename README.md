@@ -10,3 +10,6 @@ Sem mais delongas, segue a lista abaixo.
 
 ## Desenvolvimento Web
 
+### HTML/CSS
+
+* [É possível utilizar componentes desenvolvidos apenas com CSS? (Felipe Fialho)](http://www.felipefialho.com/talk-css-components-14-08-08/)
