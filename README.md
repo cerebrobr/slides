@@ -14,4 +14,4 @@ Sem mais delongas, segue a lista abaixo.
 
 * [É possível utilizar componentes desenvolvidos apenas com CSS? (Felipe Fialho)](http://www.felipefialho.com/talk-css-components-14-08-08/)
 * [Arrumando o CSS (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/arrumando-o-css) 
-* [Keel calm and let's play CSS3 right now!](https://speakerdeck.com/raphaelfabeni/keep-calm-and-lets-play-css3)
+* [Keep calm and let's play CSS3 right now!](https://speakerdeck.com/raphaelfabeni/keep-calm-and-lets-play-css3)
