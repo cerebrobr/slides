@@ -12,6 +12,25 @@ Sem mais delongas, segue a lista abaixo.
 
 ### HTML/CSS
 
+* [A semântica do HTML (Diego Eis)](https://speakerdeck.com/diegoeis/a-semantica-do-html)
+* [Arrumando o CSS (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/arrumando-o-css)
+* [Como Perder Peso (no browser) (Zeno Rocha)](https://speakerdeck.com/zenorocha/como-perder-peso-no-browser)
+* [Construindo um framework CSS (Diego Eis)](https://speakerdeck.com/diegoeis/construindo-um-framework-css)
+* [Construindo um framework CSS - A Teoria (Diego Eis)](https://speakerdeck.com/diegoeis/construindo-um-framework-css-a-teoria)
+* [Desenvolvendo Interfaces "Total-Flex" (Daniel Filho)](https://speakerdeck.com/danielfilho/desenvolvendo-interfaces-total-flex)
 * [É possível utilizar componentes desenvolvidos apenas com CSS? (Felipe Fialho)](http://www.felipefialho.com/talk-css-components-14-08-08/)
-* [Arrumando o CSS (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/arrumando-o-css) 
+* [Front-End Ops (Daniel Filho)](https://speakerdeck.com/danielfilho/front-end-ops)
+* [HTML5 APIs para Mobile (Zeno Rocha)](https://speakerdeck.com/zenorocha/html5-apis-para-mobile)
+* [HTML5: Introdução (Daniel Filho)](https://speakerdeck.com/danielfilho/html5-introducao)
+* [JS Além do Navegador (Daniel Filho)](https://speakerdeck.com/danielfilho/js-alem-do-navegador)
+* [Javascript é fã do Python (Fábio Costa)](http://www.slideshare.net/fabiomirandacosta/javascript-eh-fadopython)
 * [Keep calm and let's play CSS3 right now!](https://speakerdeck.com/raphaelfabeni/keep-calm-and-lets-play-css3)
+* [Manual de Sobrevivência do Desenvolvedor Web (Diego Eis)](https://speakerdeck.com/diegoeis/manual-de-sobrevivencia-do-desenvolvedor-web)
+* [Os cuidados e os limites da Web Mobile (Diego Eis)](https://speakerdeck.com/diegoeis/os-cuidados-e-os-limites-da-web-mobile)
+* [Seminário Open-Source - Twitter Bootstrap (Daniel Filho)](https://speakerdeck.com/danielfilho/seminario-open-source-twitter-bootstrap)
+* [Sua Aplicação Offline (Daniel Filho)](https://speakerdeck.com/danielfilho/sua-aplicacao-offline)
+* [Tracking.js: Uma nova dimensão (Zeno Rocha)](https://speakerdeck.com/zenorocha/tracking-dot-js-uma-nova-dimensao)
+* [Um futuro chamado Web Components (Zeno Rocha)](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
+* [ WAI-ARIA - Acessibilidade nas interações de página (Diego Eis)](https://speakerdeck.com/diegoeis/wai-aria-acessibilidade-nas-interacoes-de-pagina)
+
+
