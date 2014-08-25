@@ -24,7 +24,7 @@ Sem mais delongas, segue a lista abaixo.
 * [HTML5: Introdução (Daniel Filho)](https://speakerdeck.com/danielfilho/html5-introducao)
 * [JS Além do Navegador (Daniel Filho)](https://speakerdeck.com/danielfilho/js-alem-do-navegador)
 * [Javascript é fã do Python (Fábio Costa)](http://www.slideshare.net/fabiomirandacosta/javascript-eh-fadopython)
-* [Keep calm and let's play CSS3 right now!](https://speakerdeck.com/raphaelfabeni/keep-calm-and-lets-play-css3)
+* [Keep calm and let's play CSS3 right now! (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/keep-calm-and-lets-play-css3)
 * [Manual de Sobrevivência do Desenvolvedor Web (Diego Eis)](https://speakerdeck.com/diegoeis/manual-de-sobrevivencia-do-desenvolvedor-web)
 * [Os cuidados e os limites da Web Mobile (Diego Eis)](https://speakerdeck.com/diegoeis/os-cuidados-e-os-limites-da-web-mobile)
 * [Seminário Open-Source - Twitter Bootstrap (Daniel Filho)](https://speakerdeck.com/danielfilho/seminario-open-source-twitter-bootstrap)
