@@ -27,6 +27,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Keep calm and let's play CSS3 right now! (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/keep-calm-and-lets-play-css3)
 * [Manual de Sobrevivência do Desenvolvedor Web (Diego Eis)](https://speakerdeck.com/diegoeis/manual-de-sobrevivencia-do-desenvolvedor-web)
 * [Os cuidados e os limites da Web Mobile (Diego Eis)](https://speakerdeck.com/diegoeis/os-cuidados-e-os-limites-da-web-mobile)
+* [Os paranauês do CSS3 (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/os-paranaues-do-css3)
 * [Seminário Open-Source - Twitter Bootstrap (Daniel Filho)](https://speakerdeck.com/danielfilho/seminario-open-source-twitter-bootstrap)
 * [Sua Aplicação Offline (Daniel Filho)](https://speakerdeck.com/danielfilho/sua-aplicacao-offline)
 * [Tracking.js: Uma nova dimensão (Zeno Rocha)](https://speakerdeck.com/zenorocha/tracking-dot-js-uma-nova-dimensao)
