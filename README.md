@@ -10,7 +10,7 @@ Sem mais delongas, segue a lista abaixo.
 
 ## Desenvolvimento Web
 
-### HTML/CSS
+### HTML/CSS/JAVASCRIPT
 
 * [A semântica do HTML (Diego Eis)](https://speakerdeck.com/diegoeis/a-semantica-do-html)
 * [Arrumando o CSS (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/arrumando-o-css)
@@ -28,6 +28,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Manual de Sobrevivência do Desenvolvedor Web (Diego Eis)](https://speakerdeck.com/diegoeis/manual-de-sobrevivencia-do-desenvolvedor-web)
 * [Os cuidados e os limites da Web Mobile (Diego Eis)](https://speakerdeck.com/diegoeis/os-cuidados-e-os-limites-da-web-mobile)
 * [Seminário Open-Source - Twitter Bootstrap (Daniel Filho)](https://speakerdeck.com/danielfilho/seminario-open-source-twitter-bootstrap)
+* [Html5,css3,javascript: O lugar onde sonhos se tornam realidade. (Edmo Lima)](http://pt.slideshare.net/devedmo/html5css3javascript-o-lugar-onde-sonhos-se-tornam-realidade-27892328)
 * [Sua Aplicação Offline (Daniel Filho)](https://speakerdeck.com/danielfilho/sua-aplicacao-offline)
 * [Tracking.js: Uma nova dimensão (Zeno Rocha)](https://speakerdeck.com/zenorocha/tracking-dot-js-uma-nova-dimensao)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
