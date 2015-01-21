@@ -10,7 +10,7 @@ Sem mais delongas, segue a lista abaixo.
 
 ## Desenvolvimento Web
 
-### HTML/CSS
+### HTML/CSS/JS
 
 * [A semântica do HTML (Diego Eis)](https://speakerdeck.com/diegoeis/a-semantica-do-html)
 * [Arrumando o CSS (Raphael Fabeni)](https://speakerdeck.com/raphaelfabeni/arrumando-o-css)
@@ -24,6 +24,7 @@ Sem mais delongas, segue a lista abaixo.
 * [HTML5: Introdução (Daniel Filho)](https://speakerdeck.com/danielfilho/html5-introducao)
 * [JS Além do Navegador (Daniel Filho)](https://speakerdeck.com/danielfilho/js-alem-do-navegador)
 * [Javascript é fã do Python (Fábio Costa)](http://www.slideshare.net/fabiomirandacosta/javascript-eh-fadopython)
+* [JavaScript WorkShop (Davi Ferreira)](https://speakerdeck.com/daviferreira/javascript-workshop)
 * [Keep calm and let's play CSS3 right now!](https://speakerdeck.com/raphaelfabeni/keep-calm-and-lets-play-css3)
 * [Manual de Sobrevivência do Desenvolvedor Web (Diego Eis)](https://speakerdeck.com/diegoeis/manual-de-sobrevivencia-do-desenvolvedor-web)
 * [Os cuidados e os limites da Web Mobile (Diego Eis)](https://speakerdeck.com/diegoeis/os-cuidados-e-os-limites-da-web-mobile)
@@ -31,6 +32,8 @@ Sem mais delongas, segue a lista abaixo.
 * [Sua Aplicação Offline (Daniel Filho)](https://speakerdeck.com/danielfilho/sua-aplicacao-offline)
 * [Tracking.js: Uma nova dimensão (Zeno Rocha)](https://speakerdeck.com/zenorocha/tracking-dot-js-uma-nova-dimensao)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
-* [ WAI-ARIA - Acessibilidade nas interações de página (Diego Eis)](https://speakerdeck.com/diegoeis/wai-aria-acessibilidade-nas-interacoes-de-pagina)
+* [WAI-ARIA - Acessibilidade nas interações de página (Diego Eis)](https://speakerdeck.com/diegoeis/wai-aria-acessibilidade-nas-interacoes-de-pagina)
+* [Workshop Compass (Davi Ferreira)](https://speakerdeck.com/daviferreira/workshop-compass-globocom)
+* [Workshop HTML5 + CSS3 (Davi Ferreira)](https://speakerdeck.com/daviferreira/workshop-html5-css3)
 
 
