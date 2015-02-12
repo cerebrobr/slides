@@ -1,7 +1,7 @@
 # Slides
 
 > **IMPORTANTE:**
-> 
+>
 > Este repositório será apenas para alimentar **slides** que foram apresentados em eventos, meetups e afins aqui no Brasil. Por favor, antes de realizar o _pull request_, leia o [Guia de Contribuição](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir) da nossa organização.
 
 Lembrando que todas os slides citados abaixo são *gratuítos e já disponibilizados* através da internet. Então, por favor, siga a mesma linha de raciocínio caso queira contribuir, coloque material gratuíto e de uso geral, ***não coloque material pirata*** sem autorização de seus co-autores que o mesmo não será aceito.
@@ -43,3 +43,7 @@ Sem mais delongas, segue a lista abaixo.
 * [Web Components, A próxima revolução do desenvolvimento web (Beto Muniz)](https://speakerdeck.com/obetomuniz/web-components-a-proxima-revolucao-do-desenvolvimento-web)
 * [Workshop Compass (Davi Ferreira)](https://speakerdeck.com/daviferreira/workshop-compass-globocom)
 * [Workshop HTML5 + CSS3 (Davi Ferreira)](https://speakerdeck.com/daviferreira/workshop-html5-css3)
+* [Desbravando Web Components (Mateus Ortiz)](http://www.slideshare.net/mteusortiz/desbravando-web-components)
+* [O mágico mundo de Web Components (Mateus Ortiz)](https://speakerdeck.com/mateusortiz/o-magico-mundo-de-web-components)
+* [Melhores Práticas Web Components (Mateus Ortiz)](http://www.slideshare.net/mteusortiz/melhores)
+
