@@ -44,5 +44,3 @@ Sem mais delongas, segue a lista abaixo.
 * [WebApps com Web Components (Beto Muniz)](https://speakerdeck.com/obetomuniz/webapps-com-web-components)
 * [Workshop Compass (Davi Ferreira)](https://speakerdeck.com/daviferreira/workshop-compass-globocom)
 * [Workshop HTML5 + CSS3 (Davi Ferreira)](https://speakerdeck.com/daviferreira/workshop-html5-css3)
-* [Manual de Sobrevivência do Desenvolvedor Web (Diego Eis)](https://speakerdeck.com/diegoeis/manual-de-sobrevivencia-do-desenvolvedor-web)
-* [Os cuidados e os limites da Web Mobile (Diego Eis)](https://speakerdeck.com/diegoeis/os-cuidados-e-os-limites-da-web-mobile)
