@@ -8,6 +8,12 @@ Lembrando que todas os slides citados abaixo são *gratuítos e já disponibiliz
 
 Sem mais delongas, segue a lista abaixo.
 
+## Controle de Versão
+
+### Git
+
+* [Conhecendo os super poderes do Git (Anderson Nascimento)](http://pt.slideshare.net/theandersonn/conhecendo-os-super-poderes-do-git)
+
 ## Desenvolvimento Web
 
 ### HTML/CSS/JS
